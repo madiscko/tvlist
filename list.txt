@@ -58,9 +58,9 @@ CGTN     HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 内蒙古卫视,http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 
 港台频道,#genre#
-凤凰中文 HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://qlive.fengshows.cn/PCC.flv
-凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/PIN.flv
-凤凰香港 HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://qlive.fengshows.cn/PHK.flv#http://qlive.fengshows.cn/live720p/PHK.flv#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰中文 HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰香港 HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 
 
