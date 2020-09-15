@@ -1,17 +1,3 @@
-;fork from https://pastebin.com/raw/ybSuEMjs
-;Original from HD央视卫视港台频道4K超清直播源 by hwh0488 2020.05.19
-; Updated by Mad on Sep 14, 2020
-港台频道,#genre#
-凤凰中文 HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://qlive.fengshows.cn/PCC.flv
-凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/PIN.flv
-凤凰香港 HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://qlive.fengshows.cn/PHK.flv#http://qlive.fengshows.cn/live720p/PHK.flv#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-
-4K 高清,#genre#
-纯享4K    UHD,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
-BesTV4K UHD,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
-CCTV4K  UHD,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
-
 央视频道,#genre#
 CCTV-1 HD,http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV-2 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
@@ -32,7 +18,6 @@ CCTV-15 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8#ht
 CCTV-16 HD,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8#http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CGTN     HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
-
 
 卫视频道,#genre#
 北京纪实 HD,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
@@ -71,3 +56,15 @@ CGTN     HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 新疆卫视,http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8#http://223.110.243.136:80/PLTV/3/224/3221225523/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 内蒙古卫视,http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+
+港台频道,#genre#
+凤凰中文 HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://qlive.fengshows.cn/PCC.flv
+凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://qlive.fengshows.cn/PIN.flv
+凤凰香港 HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://qlive.fengshows.cn/PHK.flv#http://qlive.fengshows.cn/live720p/PHK.flv#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+
+
+4K 高清,#genre#
+纯享4K    UHD,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+BesTV4K UHD,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+CCTV4K  UHD,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
