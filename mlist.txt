@@ -14,7 +14,6 @@ CCTV-11 HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
 CCTV-12 HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
 CCTV-13 HD,http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-14 HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
-CCTV-15 HD,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-16 HD,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17 HD,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
 卫视频道,#genre#
@@ -35,7 +34,6 @@ CCTV-17 HD,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-c
 河南卫视 HD,http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
 广西卫视 HD,http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
 海南卫视 HD,http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
-厦门卫视 HD,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226093/2.m3u8
 东南卫视 HD,http://39.134.65.162/PLTV/88888888/224/3221225500/index.m3u8
 陕西卫视,http://112.17.40.140/PLTV/88888888/224/3221226177/index.m3u8
 甘肃卫视,http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
@@ -56,10 +54,7 @@ CCTV-17 HD,http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-c
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 百事通台,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
 HKS卫视 高清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
 无线新闻台,http://45.93.217.106/jiuban/hg.php?id=1
-有线新闻台,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
-亚视ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 香港亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 Channel[V],
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
@@ -81,8 +76,6 @@ CCTV4K  UHD,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 海外频道#genre#
 美国CSBN,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 美国Cheddar电视,https://live.chdrstatic.com/cheddar/primary/4.m3u8
-高清时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 美国 Ⅰ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 美国 Ⅰ MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
-
