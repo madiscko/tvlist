@@ -79,3 +79,97 @@ CCTV4K  UHD,http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
 美国 Ⅰ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 美国 Ⅰ MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 乌克兰 Ⅰ M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
+海外频道2,#genre#
+翡翠台,http://jkk2.luyutv.com/dream.m3u8?id=1d685d898ed5d228&keygemini=55f4da939cba988214f051320d49f74f
+翡翠台 b,http://jkk1.luyutv.com/dream.m3u8?id=c4711f7174b133f7&keygemini=55f4da939cba988214f051320d49f74f
+無綫新聞台,http://jkk2.luyutv.com/dream.m3u8?id=e5f3e01c5f55ef4b&keygemini=55f4da939cba988214f051320d49f74f
+J2,http://jkk2.luyutv.com/dream.m3u8?id=068fdcf35f5da3b3&keygemini=55f4da939cba988214f051320d49f74f
+無綫財經資訊台,http://jkk1.luyutv.com/dream.m3u8?id=c778873f91de22e9&keygemini=55f4da939cba988214f051320d49f74f
+無綫財經資訊台 b,http://jkk2.luyutv.com/dream.m3u8?id=16d2d4ebba122155&keygemini=55f4da939cba988214f051320d49f74f
+有線電影台,http://jkk1.luyutv.com/dream.m3u8?id=bf82e786a3aaf184&keygemini=55f4da939cba988214f051320d49f74f
+ViuTV,http://jkk1.luyutv.com/dream.m3u8?id=992a39528e84f9f7&keygemini=55f4da939cba988214f051320d49f74f
+TVB星河,http://jkk1.luyutv.com/dream.m3u8?id=4afb9a3087c2673c&keygemini=55f4da939cba988214f051320d49f74f
+星空衛视,http://jkk2.luyutv.com/dream.m3u8?id=27f2d87af05bc417&keygemini=55f4da939cba988214f051320d49f74f
+鳳凰資訊台,http://jkk2.luyutv.com/dream.m3u8?id=4fe4c66ee4bccf69&keygemini=55f4da939cba988214f051320d49f74f
+鳳凰香港台,http://jkk1.luyutv.com/dream.m3u8?id=18f4b1361755053b&keygemini=55f4da939cba988214f051320d49f74f
+鳳凰香港台 b,http://jkk1.luyutv.com/dream.m3u8?id=1117e8f2e7b87c26&keygemini=55f4da939cba988214f051320d49f74f
+翡翠台,http://jkk1.luyutv.com/dream.m3u8?id=040080a10ca83ca6&keygemini=55f4da939cba988214f051320d49f74f
+欢喜台,http://jkk2.luyutv.com/dream.m3u8?id=9d892e5a6322664f&keygemini=55f4da939cba988214f051320d49f74f
+全佳,http://jkk1.luyutv.com/dream.m3u8?id=a2865135e0b3acc2&keygemini=55f4da939cba988214f051320d49f74f
+双星,http://jkk2.luyutv.com/dream.m3u8?id=76f530e9b859accc&keygemini=55f4da939cba988214f051320d49f74f
+爱奇艺,http://jkk1.luyutv.com/dream.m3u8?id=66c0f5e001520f67&keygemini=55f4da939cba988214f051320d49f74f
+TVB星河,http://jkk1.luyutv.com/dream.m3u8?id=95ea6cdff3b8931e&keygemini=55f4da939cba988214f051320d49f74f
+天映经典,http://jkk2.luyutv.com/dream.m3u8?id=a1bf278f9a91ce5f&keygemini=55f4da939cba988214f051320d49f74f
+亞洲旅遊台,http://jkk1.luyutv.com/dream.m3u8?id=e1b094035d742d30&keygemini=55f4da939cba988214f051320d49f74f
+中视,http://jkk2.luyutv.com/dream.m3u8?id=cdc74a506271c366&keygemini=55f4da939cba988214f051320d49f74f
+華視,http://jkk1.luyutv.com/dream.m3u8?id=18c0db9780e22c69&keygemini=55f4da939cba988214f051320d49f74f
+公视,http://jkk2.luyutv.com/dream.m3u8?id=ffda95f05cc6a1f9&keygemini=55f4da939cba988214f051320d49f74f
+東森綜合,http://jkk2.luyutv.com/dream.m3u8?id=61b2abc734288c0d&keygemini=55f4da939cba988214f051320d49f74f
+東森超視,http://jkk2.luyutv.com/dream.m3u8?id=94e3c34eaa1bcd25&keygemini=55f4da939cba988214f051320d49f74f
+東森羊片,http://jkk1.luyutv.com/dream.m3u8?id=c57cae743859c528&keygemini=55f4da939cba988214f051320d49f74f
+東森幼幼,http://jkk2.luyutv.com/dream.m3u8?id=ec670e90fde2ce0e&keygemini=55f4da939cba988214f051320d49f74f
+TVBS,http://jkk1.luyutv.com/dream.m3u8?id=9a6a42cce33aeb9a&keygemini=55f4da939cba988214f051320d49f74f
+TVBS歡樂台,http://jkk2.luyutv.com/dream.m3u8?id=80567d137091508d&keygemini=55f4da939cba988214f051320d49f74f
+中天綜合,http://jkk2.luyutv.com/dream.m3u8?id=1e31a2c3f139fd6a&keygemini=55f4da939cba988214f051320d49f74f
+中天娛樂,http://jkk1.luyutv.com/dream.m3u8?id=32a9fe570cd582e7&keygemini=55f4da939cba988214f051320d49f74f
+中天亞洲台,http://jkk2.luyutv.com/dream.m3u8?id=af841422515e3e72&keygemini=55f4da939cba988214f051320d49f74f
+八大第1台,http://jkk1.luyutv.com/dream.m3u8?id=1483a04c77ce53f6&keygemini=55f4da939cba988214f051320d49f74f
+八大綜合台,http://jkk2.luyutv.com/dream.m3u8?id=8b9f1d85c3564440&keygemini=55f4da939cba988214f051320d49f74f
+八大戲劇台,http://jkk1.luyutv.com/dream.m3u8?id=60fc78a4a1f3bb4c&keygemini=55f4da939cba988214f051320d49f74f
+三立台湾台,http://jkk2.luyutv.com/dream.m3u8?id=6283eb5012de86ad&keygemini=55f4da939cba988214f051320d49f74f
+三立都會台,http://jkk2.luyutv.com/dream.m3u8?id=96e1ad658fa8c137&keygemini=55f4da939cba988214f051320d49f74f
+衛視中文台,http://jkk2.luyutv.com/dream.m3u8?id=404127e196c3058c&keygemini=55f4da939cba988214f051320d49f74f
+JET综合,http://jkk1.luyutv.com/dream.m3u8?id=e692c91f48f5d9a7&keygemini=55f4da939cba988214f051320d49f74f
+壹新聞,http://jkk1.luyutv.com/dream.m3u8?id=7e5baf74b98ddb49&keygemini=55f4da939cba988214f051320d49f74f
+年代新聞,http://jkk1.luyutv.com/dream.m3u8?id=00cfc2a1e2438416&keygemini=55f4da939cba988214f051320d49f74f
+衛視電影台,http://jkk2.luyutv.com/dream.m3u8?id=70f9f334aba0c31a&keygemini=55f4da939cba988214f051320d49f74f
+龍祥時代,http://jkk2.luyutv.com/dream.m3u8?id=bc06fb097e134619&keygemini=55f4da939cba988214f051320d49f74f
+AXN,http://jkk2.luyutv.com/dream.m3u8?id=100baf62dbfaef87&keygemini=55f4da939cba988214f051320d49f74f
+Cinema World,http://jkk2.luyutv.com/dream.m3u8?id=5a84a416e411988c&keygemini=55f4da939cba988214f051320d49f74f
+FOX Movies,http://jkk1.luyutv.com/dream.m3u8?id=f22d2e8880b86d65&keygemini=55f4da939cba988214f051320d49f74f
+HBO HD,http://jkk1.luyutv.com/dream.m3u8?id=8ce8760851817aa8&keygemini=55f4da939cba988214f051320d49f74f
+好萊塢電影,http://jkk1.luyutv.com/dream.m3u8?id=0a8c9b2675e42d18&keygemini=55f4da939cba988214f051320d49f74f
+國家地理頻道,http://jkk1.luyutv.com/dream.m3u8?id=c67c255980ef1578&keygemini=55f4da939cba988214f051320d49f74f
+緯來體育,http://jkk1.luyutv.com/dream.m3u8?id=e7e134c42ea0722f&keygemini=55f4da939cba988214f051320d49f74f
+緯來戲劇,http://jkk1.luyutv.com/dream.m3u8?id=8f858a568b92ab02&keygemini=55f4da939cba988214f051320d49f74f
+緯來電影,http://jkk1.luyutv.com/dream.m3u8?id=1e33988385802069&keygemini=55f4da939cba988214f051320d49f74f
+博斯魅力,http://jkk1.luyutv.com/dream.m3u8?id=a62c0424ca1783c2&keygemini=55f4da939cba988214f051320d49f74f
+好消息2,http://jkk1.luyutv.com/dream.m3u8?id=f6d4b0012eb97d00&keygemini=55f4da939cba988214f051320d49f74f
+迪士尼頻道,http://jkk2.luyutv.com/dream.m3u8?id=7ef54a4e192d05df&keygemini=55f4da939cba988214f051320d49f74f
+nick,http://jkk2.luyutv.com/dream.m3u8?id=9faf68eff963362a&keygemini=55f4da939cba988214f051320d49f74f
+A&E,http://jkk1.luyutv.com/dream.m3u8?id=4ebb6ba4eca6c913&keygemini=55f4da939cba988214f051320d49f74f
+Comedy Central,http://jkk2.luyutv.com/dream.m3u8?id=4f0df73b18b5fb52&keygemini=55f4da939cba988214f051320d49f74f
+Disney Junior,http://jkk2.luyutv.com/dream.m3u8?id=c1304924bc5497e2&keygemini=55f4da939cba988214f051320d49f74f
+Disney XD,http://jkk2.luyutv.com/dream.m3u8?id=4f0df73b18b5fb52&keygemini=55f4da939cba988214f051320d49f74f
+HGTV,http://jkk1.luyutv.com/dream.m3u8?id=0545e5a99df3ceb8&keygemini=55f4da939cba988214f051320d49f74f
+KBS WORLD,http://jkk2.luyutv.com/dream.m3u8?id=4be2a51d9c52f3bb&keygemini=55f4da939cba988214f051320d49f74f
+KIX,http://jkk1.luyutv.com/dream.m3u8?id=dbcf1b1e25db0571&keygemini=55f4da939cba988214f051320d49f74f
+Oh!k,http://jkk1.luyutv.com/dream.m3u8?id=19ab66474b787106&keygemini=55f4da939cba988214f051320d49f74f
+SONY one,http://jkk2.luyutv.com/dream.m3u8?id=622243e8eb9d5f91&keygemini=55f4da939cba988214f051320d49f74f
+travelxp,http://jkk2.luyutv.com/dream.m3u8?id=49d0b23f3ad1b526&keygemini=55f4da939cba988214f051320d49f74f
+ARENA,http://jkk2.luyutv.com/dream.m3u8?id=ca3582909c8a4ef1&keygemini=55f4da939cba988214f051320d49f74f
+AWANI,http://jkk2.luyutv.com/dream.m3u8?id=56bd60a19865243a&keygemini=55f4da939cba988214f051320d49f74f
+BERNAMA,http://jkk1.luyutv.com/dream.m3u8?id=c43d677f40c18eeb&keygemini=55f4da939cba988214f051320d49f74f
+Hello,http://jkk1.luyutv.com/dream.m3u8?id=9a7170f13858b897&keygemini=55f4da939cba988214f051320d49f74f
+NAURA,http://jkk2.luyutv.com/dream.m3u8?id=c027cbb27030382c&keygemini=55f4da939cba988214f051320d49f74f
+OASIS,http://jkk2.luyutv.com/dream.m3u8?id=29e8ad0e3ef26739&keygemini=55f4da939cba988214f051320d49f74f
+Ria,http://jkk2.luyutv.com/dream.m3u8?id=cd4e14f305b966dc&keygemini=55f4da939cba988214f051320d49f74f
+Ria b,http://jkk1.luyutv.com/dream.m3u8?id=4469db7075243e51&keygemini=55f4da939cba988214f051320d49f74f
+WARNA,http://jkk2.luyutv.com/dream.m3u8?id=4f281f7fcc1f5cbf&keygemini=55f4da939cba988214f051320d49f74f
+WARNA b,http://jkk1.luyutv.com/dream.m3u8?id=ad869b6439dd8ef0&keygemini=55f4da939cba988214f051320d49f74f
+TV1,http://jkk2.luyutv.com/dream.m3u8?id=e8b991dc6bae7106&keygemini=55f4da939cba988214f051320d49f74f
+TV2,http://jkk1.luyutv.com/dream.m3u8?id=74d6b92b155a9de7&keygemini=55f4da939cba988214f051320d49f74f
+TV3,http://jkk2.luyutv.com/dream.m3u8?id=64899b627f9b1398&keygemini=55f4da939cba988214f051320d49f74f
+TV3 b,http://jkk2.luyutv.com/dream.m3u8?id=6ad1c0059e4febd9&keygemini=55f4da939cba988214f051320d49f74f
+NTV7,http://jkk2.luyutv.com/dream.m3u8?id=0cf3b87d81d126d7&keygemini=55f4da939cba988214f051320d49f74f
+NTV7 b,http://jkk1.luyutv.com/dream.m3u8?id=e2c5903834895d05&keygemini=55f4da939cba988214f051320d49f74f
+8TV,http://jkk2.luyutv.com/dream.m3u8?id=e047878648a52bfd&keygemini=55f4da939cba988214f051320d49f74f
+TV9,http://jkk2.luyutv.com/dream.m3u8?id=72ea63376b433df7&keygemini=55f4da939cba988214f051320d49f74f
+RTM SPORTS,http://jkk1.luyutv.com/dream.m3u8?id=1720c4d010aaeae8&keygemini=55f4da939cba988214f051320d49f74f
+DRAMA SANGAT,http://jkk1.luyutv.com/dream.m3u8?id=0b301ed5ee7827ca&keygemini=55f4da939cba988214f051320d49f74f
+Ch 5,http://jkk1.luyutv.com:80/dream.m3u8?id=83baa6b2cec642db&keygemini=55f4da939cba988214f051320d49f74f
+Ch 5 b,http://jkk2.luyutv.com/dream.m3u8?id=7df9c6e1c8b2e9d2&keygemini=55f4da939cba988214f051320d49f74f
+Ch 8,http://jkk2.luyutv.com/dream.m3u8?id=e2aed8e14a2ec855&keygemini=55f4da939cba988214f051320d49f74f
+Ch 8 b,http://jkk1.luyutv.com/dream.m3u8?id=d4004f8257d049e7&keygemini=55f4da939cba988214f051320d49f74f
+Ch U,http://jkk1.luyutv.com/dream.m3u8?id=29fc3e533434776c&keygemini=55f4da939cba988214f051320d49f74f
+Suria,http://jkk1.luyutv.com/dream.m3u8?id=d60dc76d1a17585c&keygemini=55f4da939cba988214f051320d49f74f
