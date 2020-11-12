@@ -60,6 +60,20 @@ Channel[V],
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 Channel K,https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 三立新聞, http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+香港2,#genre#
+有线新闻 1080+720+480,http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
+有线新闻 1080,http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+有线新闻 720,http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-2.m3u8
+有线新闻 480,http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-1.m3u8
+有线综合娱乐 1080+720+480,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
+有线综合娱乐 1080,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
+有线综合娱乐 720,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-2.m3u8
+有线综合娱乐 480,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-1.m3u8
+有线财经资讯 1080+720+480,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
+有线财经资讯 1080,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8
+有线财经资讯 720,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-2.m3u8
+有线财经资讯 480,http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-1.m3u8
+澳亚卫视 480,http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 本地卫视,#genre#
 北京纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 新华中文,http://livecdn1.news.cn/cnccn/manifest.m3u8
