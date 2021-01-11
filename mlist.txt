@@ -1,8 +1,8 @@
 央视频道,#genre#
-CCTV-1 HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
-CCTV-2 HD,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-CCTV-3 HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/1.m3u8
-CCTV-4 HD,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
+CCTV-1综合,http://117.169.72.135:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV-2财经,http://117.169.72.135:8080/PLTV/88888888/224/3221225631/index.m3u8
+CCTV-3综艺,http://117.169.72.135:8080/PLTV/88888888/224/3221225632/index.m3u8
+CCTV-4中文国际,http://117.169.72.135:8080/PLTV/88888888/224/3221225633/index.m3u8
 CCTV-5 HD,http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8#http://112.17.40.6:80/PLTV/88888888/224/3221226400/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8
 CCTV-5+HD,http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV-6 HD,http://112.17.40.48:80/PLTV/88888888/224/3221226433/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8#http://112.17.40.7:80/PLTV/88888888/224/3221226487/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
